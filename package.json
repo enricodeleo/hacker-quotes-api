@@ -21,7 +21,8 @@
   "license": "MIT",
   "dependencies": {
     "hacker-quotes": "^1.0.0",
-    "micro": "^9.3.4"
+    "micro": "^9.3.4",
+    "now-micro": "^0.4.0"
   },
   "devDependencies": {
     "eslint": "^6.4.0"
