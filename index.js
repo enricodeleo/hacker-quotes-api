@@ -5,5 +5,5 @@ module.exports = () => {
   const max = Math.floor(hackerQuotes.length);
   const index = Math.floor(Math.random() * (max - min)) + min;
 
-  return hackerQuotes[index].quote;
+  return hackerQuotes[index];
 };
