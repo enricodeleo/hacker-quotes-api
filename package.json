@@ -2,7 +2,11 @@
   "name": "random-quote",
   "version": "1.0.0",
   "description": "Generate random quotes",
+  "engines": {
+    "node": "^10"
+  },
   "main": "index.js",
+  "repository": "github:enricodeleo/hacker-quotes-api",
   "scripts": {
     "start": "micro"
   },
