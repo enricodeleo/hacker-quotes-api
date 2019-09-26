@@ -1,0 +1,25 @@
+{
+  "name": "random-quote",
+  "version": "1.0.0",
+  "description": "Generate random quotes",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "keywords": [
+    "random",
+    "quote",
+    "api",
+    "generator",
+    "dummy"
+  ],
+  "author": "Enrico Deleo <hello@enricodeleo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hacker-quotes": "^1.0.0",
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0"
+  }
+}
